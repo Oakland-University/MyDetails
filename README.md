@@ -1,4 +1,4 @@
-Financial Aid Portlet
+My Details Portlet
 =====================
 
 To compile run this maven command:
