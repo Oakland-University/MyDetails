@@ -1,0 +1,12 @@
+.flexcontainer {
+  display: flex;
+  margin: auto;
+}
+
+.glyphicon.glyphicon-warning-sign {
+  margin-top: 6px;
+}
+
+#myDetails-warningIcon {
+  margin: auto;
+}
